@@ -12,4 +12,4 @@ $(function () {
     
    $( 'p' ).each(function(index) {
                  $(this).addClass("paragraf-" + index);
-                 })
+                 });
